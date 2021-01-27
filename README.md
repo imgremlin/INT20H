@@ -3,8 +3,8 @@
 ## Overview
 
 * Qualifiers for INT20 Hackathon
-* Task Binary: Classification, NLP
-* Date February: 2020
+* Task: Binary Classification, NLP
+* Date: February 2020
 
 ## Awards
 
