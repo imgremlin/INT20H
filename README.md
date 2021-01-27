@@ -8,10 +8,10 @@
 
 ## Awards
 
-Acording to leaderbord we got 4th place, but we got best result among **fair** teams!
+According to the leaderboard, we got 4th place, but we got the best result among **fair** teams!
 
 ## Authors
-* Oleksii Tsepa - team lead
+* Oleksii Tsepa
 * Andriy Samoshin
 * Mykhaylo Turkin
 
