@@ -12,10 +12,10 @@ According to the leaderboard, we got 4th place, but we got the best result among
 
 ## Authors
 * Oleksii Tsepa
-* Andriy Samoshin
-* Mykhaylo Turkin
+* Andriy Samoshyn
+* Myhaylo Turkin
 
 ## Links
 * [Hackathon website](https://int20h.best-kyiv.org/)
 * [Kaggle In-Class competition (qualifiers)](https://www.kaggle.com/c/text-classification-int20h/)
-* [Our Solution](best-solution-by-gornyaki-without-cheating.ipynb), [or on Kaggle](https://www.kaggle.com/mrmorj/best-solution-by-gornyaki-without-cheating)
+* Our Solution: [on Git](best-solution-by-gornyaki-without-cheating.ipynb), [on Kaggle](https://www.kaggle.com/mrmorj/best-solution-by-gornyaki-without-cheating)
