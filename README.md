@@ -18,4 +18,4 @@ Acording to leaderbord we got 4th place, but we got best result among **fair** t
 ## Links
 * [Hackathon website](https://int20h.best-kyiv.org/)
 * [Kaggle In-Class competition (qualifiers)](https://www.kaggle.com/c/text-classification-int20h/)
-* [Our Solution](best-solution-by-gornyaki-without-cheating.ipynb)
+* [Our Solution](best-solution-by-gornyaki-without-cheating.ipynb), [or on Kaggle](https://www.kaggle.com/mrmorj/best-solution-by-gornyaki-without-cheating)
